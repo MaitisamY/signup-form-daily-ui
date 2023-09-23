@@ -182,6 +182,10 @@ button {
         font-family: 'Rubik', sans-serif;
         color: #2B00A3;
     }
+    button {
+        padding: 5px 5px;
+        font-size: 7px;
+    }
 }
 
 @media all and (max-width: 767px) and (min-width: 576px) {
@@ -238,6 +242,10 @@ button {
         font-family: 'Rubik', sans-serif;
         color: #2B00A3;
     }
+    button {
+        padding: 5px 5px;
+        font-size: 8px;
+    }
 }
 
 @media all and (max-width: 992px) and (min-width: 768px) {
@@ -293,6 +301,10 @@ button {
     .grid-item-2 p {
         font-family: 'Rubik', sans-serif;
         color: #2B00A3;
+    }
+    button {
+        padding: 5px 5px;
+        font-size: 9px;
     }
 }
 @media all and (max-width: 1200px) and (min-width: 993px) {
